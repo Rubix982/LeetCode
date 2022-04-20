@@ -4,9 +4,14 @@
 
 - [740. Delete And Earn](#740-delete-and-earn)
   - [Table Of Contents](#table-of-contents)
+  - [Link](#link)
   - [Description](#description)
   - [Hints](#hints)
   - [Result Details](#result-details)
+
+## Link
+
+Problem can be found [here](https://leetcode.com/problems/delete-and-earn/).
 
 ## Description
 

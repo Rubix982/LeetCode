@@ -4,9 +4,14 @@
 
 - [55. Jump Game (MEDIUM)](#55-jump-game-medium)
   - [Table Of Contents](#table-of-contents)
+  - [Link](#link)
   - [Description](#description)
   - [Hints](#hints)
   - [Result Details](#result-details)
+
+## Link
+
+Problem can be found [here](https://leetcode.com/problems/jump-game/).
 
 ## Description
 

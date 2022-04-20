@@ -4,9 +4,14 @@
 
 - [1137. N-th Tribonacci Number (EASY)](#1137-n-th-tribonacci-number-easy)
   - [Table Of Contents](#table-of-contents)
+  - [Link](#link)
   - [Description](#description)
   - [Hints](#hints)
   - [Result Details](#result-details)
+
+## Link
+
+Problem can be found [here](https://leetcode.com/problems/n-th-tribonacci-number/).
 
 ## Description
 

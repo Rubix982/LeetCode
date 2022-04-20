@@ -4,9 +4,14 @@
 
 - [70. Climbing Stairs (EASY)](#70-climbing-stairs-easy)
   - [Table Of Contents](#table-of-contents)
+  - [Link](#link)
   - [Description](#description)
   - [Hint](#hint)
   - [Result Details](#result-details)
+
+## Link
+
+Problem can be found [here](https://leetcode.com/problems/climbing-stairs/).
 
 ## Description
 

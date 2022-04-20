@@ -4,12 +4,17 @@
 
 - [70. Climbing Stairs (EASY)](#70-climbing-stairs-easy)
   - [Table Of Contents](#table-of-contents)
+  - [Link](#link)
   - [Description](#description)
     - [Example 1](#example-1)
     - [Example 2](#example-2)
     - [Constraints](#constraints)
   - [Hint](#hint)
   - [Result Details](#result-details)
+
+## Link
+
+Problem can be found [here](https://leetcode.com/problems/min-cost-climbing-stairs/).
 
 ## Description
 
