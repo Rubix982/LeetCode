@@ -42,9 +42,14 @@ Please follow the steps and copy the following template to generate a folder for
 
     - [<PROBLEM_NUMBER>. <PROBLEM_NAME> (<PROBLEM_DIFFICULTY>)](#problem_number-problem_name-problem_difficulty)
       - [Table Of Contents](#table-of-contents)
+      - [Link](#link)
       - [Description](#description)
       - [Hints](#hints)
       - [Result Details](#result-details)
+
+    ## Link
+
+    Problem can be found [here](https://leetcode.com/study-plan/).
 
     ## Description
 
