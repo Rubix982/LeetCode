@@ -51,3 +51,7 @@ Constraints:
 None
 
 ## Result Details
+
+`Runtime`: `0 ms`, faster than `100.00%` of Java online submissions for House Robber.
+
+`Memory Usage`: `41.3 MB`, less than `63.51%` of Java online submissions for House Robber.

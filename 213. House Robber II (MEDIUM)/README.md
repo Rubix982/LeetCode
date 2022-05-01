@@ -54,4 +54,6 @@ Since House[1] and House[n] are adjacent, they cannot be robbed together. Theref
 
 ## Result Details
 
-...
+`Runtime`: `0 ms`, faster than `100.00%` of `Java` online submissions for House Robber II.
+
+`Memory Usage`: `39.9 MB`, less than `77.38%` of Java online submissions for House Robber II.
