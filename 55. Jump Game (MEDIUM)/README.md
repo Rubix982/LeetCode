@@ -46,4 +46,6 @@ None
 
 ## Result Details
 
-...
+`Runtime`: `1 ms`, faster than `100.00%` of Java online submissions for Jump Game.
+
+`Memory Usage`: `68.6 MB`, less than `24.51%` of Java online submissions for Jump Game.
