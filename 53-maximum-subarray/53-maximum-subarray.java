@@ -12,17 +12,18 @@ class Solution {
         // }
         
         dp[0] = nums[0];
-        int max = -10001;
+        int max = dp[0];
         
         for (int i = 1; i < nums.length; i++) {
             // System.out.println(dp[i-1] + nums[i]);
             // System.out.println(nums[i]);
             dp[i] = Math.max(dp[i-1] + nums[i], nums[i]);
-        }
-
-        for (int i = 0; i < nums.length; i++) {
             max = Math.max(dp[i], max);
         }
+
+//         for (int i = 0; i < nums.length; i++) {
+
+//         }
                     
         return max;
     }
