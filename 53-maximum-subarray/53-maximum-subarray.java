@@ -7,9 +7,9 @@ class Solution {
         
         int[] dp = new int[nums.length];
         
-        for (int i = 0; i < nums.length; i++) {
-            dp[i] = 0;
-        }
+        // for (int i = 0; i < nums.length; i++) {
+        //     dp[i] = 0;
+        // }
         
         dp[0] = nums[0];
         int max = -10001;
