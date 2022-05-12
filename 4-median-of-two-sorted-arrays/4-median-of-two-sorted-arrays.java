@@ -1,10 +1,8 @@
 class Solution {
     
-    private int[] answer = new int[2001];
-    private int k = 0;
-    
     public int[] mergeArray(int[] a, int[] b) {
-        int i = 0, j = 0;
+        int[] answer = new int[a.length + b.length];
+        int i = 0, j = 0, k = 0;
         
         while (i < a.length && j < b.length) {
             if (a[i] < b[j]) {
@@ -32,11 +30,11 @@ class Solution {
         return answer;
     }
     
-    public double getMedian(int[] arr, int arrSize) {
-        if (arrSize % 2 != 0) {
-            return (double) arr[arrSize/2];
+    public double getMedian(int[] arr) {
+        if (arr.length % 2 != 0) {
+            return (double) arr[arr.length/2];
         } else {
-            return ((double) arr[arrSize/2] + (double) arr[arrSize/2 - 1])/2;
+            return ((double) arr[arr.length/2] + (double) arr[arr.length/2 - 1])/2;
         }    
     }
     
@@ -44,10 +42,10 @@ class Solution {
         if (nums1.length == 0 && nums2.length == 0) {
             return 0;
         } else if (nums1.length != 0 && nums2.length == 0) {
-            return getMedian(nums1, nums1.length);
+            return getMedian(nums1);
         } else if (nums1.length == 0 && nums2.length != 0) {
-            return getMedian(nums2, nums2.length);
+            return getMedian(nums2);
         }
-        return getMedian(mergeArray(nums1, nums2), k);
+        return getMedian(mergeArray(nums1, nums2));
     }
 }
