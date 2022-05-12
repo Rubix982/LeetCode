@@ -39,9 +39,6 @@ class Solution {
     }
     
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        
-        double total = 0.0;
-        
         if (nums1.length == 0 && nums2.length == 0) {
             return 0;
         } else if (nums1.length != 0 && nums2.length == 0) {
@@ -49,13 +46,6 @@ class Solution {
         } else if (nums1.length == 0 && nums2.length != 0) {
             return getMedian(nums2);
         }
-
-//         int[] arr = mergeArray(nums1, nums2);
-        
-//         for (int i = 0; i < arr.length ; i++) {
-//             System.out.println(arr[i]);
-//         }
-        
         return getMedian(mergeArray(nums1, nums2));
     }
 }
