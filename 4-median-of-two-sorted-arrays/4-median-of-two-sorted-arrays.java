@@ -45,14 +45,8 @@ class Solution {
         if (nums1.length == 0 && nums2.length == 0) {
             return 0;
         } else if (nums1.length != 0 && nums2.length == 0) {
-            for (int i = 0; i < nums1.length; i++) {
-                total += nums1[i];
-            }
             return getMedian(nums1);
         } else if (nums1.length == 0 && nums2.length != 0) {
-            for (int i = 0; i < nums2.length; i++) {
-                total += nums2[i];
-            }
             return getMedian(nums2);
         }
 
