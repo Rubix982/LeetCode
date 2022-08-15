@@ -6,10 +6,6 @@ class Solution {
             return false;
         }
         
-        if (n == 1) {
-            return true;
-        }
-        
         int sum = 0;
 
         while (n >= 10) {            
