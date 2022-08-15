@@ -15,9 +15,6 @@ class Solution {
         while (n >= 10) {            
             for (sum = 0; n > 0; n /= 10) {
                 sum += (n % 10) * (n % 10);
-                // if (sum > Integer.MAX_VALUE) {
-                //     return false;
-                // }
             }
             n = sum;
         }
