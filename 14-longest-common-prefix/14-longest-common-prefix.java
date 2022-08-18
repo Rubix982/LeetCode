@@ -1,13 +1,5 @@
 class Solution {
     
-    public boolean outOfBoundsStringLength(int endingIndex, int strLength) {
-        if (endingIndex == strLength || endingIndex + 1 == strLength) {
-            return true;
-        }
-        
-        return false;
-    }
-    
     public String longestCommonPrefix(String[] strs) {
    
         if (strs.length == 0) {
