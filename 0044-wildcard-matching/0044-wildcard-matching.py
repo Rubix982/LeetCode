@@ -1,6 +1,6 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-        return self.isMatchDPApproach(s, p) and self.isMatchIdxPointer(s, p)
+        return self.isMatchDPApproach(s, p)
 
     def isMatchDPApproach(self, s: str, p: str) -> bool:
         s_len, p_len = len(s), len(p)
