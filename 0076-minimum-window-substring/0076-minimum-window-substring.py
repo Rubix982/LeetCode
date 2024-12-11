@@ -13,7 +13,7 @@ class Solution:
             required[ord(char)] += 1
 
         start, end = 0, 0
-        min_window_length = float('inf')
+        min_window_length = len_s + 1
         min_window_start = 0
         number_of_chars_to_be_included = len_t
 
@@ -43,4 +43,4 @@ class Solution:
             end += 1
 
         # Return the smallest window
-        return "" if min_window_length == float('inf') else s[min_window_start:min_window_start + min_window_length]
+        return "" if min_window_length == len_s + 1 else s[min_window_start:min_window_start + min_window_length]
