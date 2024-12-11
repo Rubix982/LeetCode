@@ -1,5 +1,8 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+        if len(s) < len(t):
+            return ""
+
         # Fixed size array for ASCII characters
         required = [0] * 128  # Supports ASCII characters (0 to 127)
         
