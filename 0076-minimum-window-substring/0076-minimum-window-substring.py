@@ -1,7 +1,8 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         len_t = len(t)
-        if len(s) < len_t:
+        len_s = len(s)
+        if len_s < len_t:
             return ""
 
         # Fixed size array for ASCII characters
@@ -16,7 +17,7 @@ class Solution:
         min_window_start = 0
         number_of_chars_to_be_included = len_t
 
-        while end < len(s):
+        while end < len_s:
             # If character is in t, decrement its count in the bitmap
             ord_char_end = ord(s[end])
             if required[ord_char_end] > 0:
