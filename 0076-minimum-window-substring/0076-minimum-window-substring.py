@@ -13,9 +13,8 @@ class Solution:
         number_of_chars_to_be_included = len(t)
 
         while end < len(s):
-            char_end = s[end]
             # If character is in t, decrement its count in the bitmap
-            ord_char_end = ord(char_end)
+            ord_char_end = ord(s[end])
             if required[ord_char_end] > 0:
                 number_of_chars_to_be_included -= 1
             required[ord_char_end] -= 1
@@ -29,8 +28,7 @@ class Solution:
                     min_window_start = start
 
                 # Remove the start character from the window
-                char_start = s[start]
-                ord_char_start = ord(char_start)
+                ord_char_start = ord(s[start])
                 required[ord_char_start] += 1
                 if required[ord_char_start] > 0:
                     number_of_chars_to_be_included += 1
