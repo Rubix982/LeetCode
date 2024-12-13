@@ -82,6 +82,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Rubix982/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/Rubix982/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rubix982/LeetCode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
