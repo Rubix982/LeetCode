@@ -4,6 +4,7 @@ class Solution:
         # but it is slow. Consider using the regular memoization technique for a better
         # runtime as a tradeoff
         # Khan's Algorithm Technique -> Runtime (229ms, Beats 18.26%), Memory (18.56 MB, Beats 72.76%)
+        # Memoization Technique -> Runtime (171ms, Beats 51.07%), Memory (18.88 MB, Beats 67.81%)
         # return self.longestIncreasingPathKhanAlgorithm(matrix)
         if not matrix or not matrix[0]:
             return 0
