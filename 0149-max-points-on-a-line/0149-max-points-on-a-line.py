@@ -2,7 +2,7 @@ class Solution:
     def maxPoints(self, points: List[List[int]]) -> int:
         len_points = len(points)
         if len_points <= 2:
-            return len(points)
+            return len_points
 
         ans = 0
 
