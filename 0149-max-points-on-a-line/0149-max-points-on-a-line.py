@@ -10,7 +10,7 @@ class Solution:
             slopes = defaultdict(int)
             x1, y1 = points[i]
 
-            for j in range(len_points):
+            for j in range(i + 1, len_points):
                 if i == j:
                     continue
 
