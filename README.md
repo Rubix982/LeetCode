@@ -135,6 +135,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0041-first-missing-positive](https://github.com/Rubix982/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rubix982/LeetCode/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +144,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Rubix982/LeetCode/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph
 |  |
@@ -160,4 +162,12 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
