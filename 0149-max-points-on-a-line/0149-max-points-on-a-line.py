@@ -5,15 +5,13 @@ class Solution:
             return len_points
 
         ans = 0
+        slopes = defaultdict(int)
 
         for i in range(len_points):
-            slopes = defaultdict(int)
+            slopes.clear()            
             x1, y1 = points[i]
 
             for j in range(i + 1, len_points):
-                if i == j:
-                    continue
-
                 x2, y2 = points[j]
                 slope = math.inf if x2 - x1 == 0 else (y2 - y1) / (x2 - x1)
                 slopes[slope] += 1
