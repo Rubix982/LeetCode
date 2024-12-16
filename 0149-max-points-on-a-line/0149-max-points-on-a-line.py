@@ -1,36 +1,22 @@
 class Solution:
     def maxPoints(self, points: List[List[int]]) -> int:
-        if len(points) <= 2:
+        len_points = len(points)
+        if len_points <= 2:
             return len(points)
 
-        max_points_on_a_line = 1
+        ans = 0
 
-        for i in range(len(points)):
+        for i in range(len_points):
             slopes = defaultdict(int)
-            duplicates = 1
-            current_max = 0
+            x1, y1 = points[i]
 
-            for j in range(len(points)):
+            for j in range(len_points):
                 if i == j:
                     continue
 
-                if points[i] == points[j]:
-                    duplicates += 1
-                else:
-                    x1, y1 = points[i]
-                    x2, y2 = points[j]
-                    dy, dx = y2 - y1, x2 - x1
-                    gcd = self.__gcd(dx, dy)
-                    dx //= gcd
-                    dy //= gcd
-                    slopes[(dx, dy)] += 1
-                    current_max = max(current_max, slopes[(dx, dy)])
-
-            max_points_on_a_line = max(max_points_on_a_line, current_max + duplicates)
-
-        return max_points_on_a_line
-
-    def __gcd(self, a: int, b: int) -> int:
-        while b:
-            a, b = b, a % b
-        return abs(a)
+                x2, y2 = points[j]
+                slope = math.inf if x2 - x1 == 0 else (y2 - y1) / (x2 - x1)
+                slopes[slope] += 1
+                ans = max(ans, slopes[slope])
+ 
+        return ans + 1
