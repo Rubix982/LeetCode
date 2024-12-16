@@ -13,7 +13,8 @@ class Solution:
 
             for j in range(i + 1, len_points):
                 x2, y2 = points[j]
-                slope = math.inf if x2 - x1 == 0 else (y2 - y1) / (x2 - x1)
+                denominator = x2 - x1
+                slope = math.inf if denominator == 0 else (y2 - y1) / denominator
                 slopes[slope] += 1
                 ans = max(ans, slopes[slope])
  
