@@ -21,9 +21,10 @@ class Solution:
 
         for char in reversed(s):
             curr_val = roman_to_val[char]
-            mutliplier = -1 if curr_val < prev_val else 1
-            curr_val = curr_val * mutliplier
-            roman_sum = roman_sum + curr_val
+            if curr_val < prev_val:
+                roman_sum = roman_sum - curr_val
+            else:
+                roman_sum = roman_sum + curr_val
             prev_val = curr_val
 
         return roman_sum
