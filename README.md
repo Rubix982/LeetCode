@@ -83,6 +83,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rubix982/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Rubix982/LeetCode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Rubix982/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rubix982/LeetCode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -132,6 +133,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rubix982/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Rubix982/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rubix982/LeetCode/tree/master/0127-word-ladder) |
@@ -166,6 +168,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rubix982/LeetCode/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Geometry
