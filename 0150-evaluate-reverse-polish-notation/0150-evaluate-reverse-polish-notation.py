@@ -8,9 +8,10 @@ class Solution:
         elif op == "*":
             return val_one * val_two
 
+        result = val_one // val_two
         if val_one * val_two < 0 and val_one % val_two != 0:
-            return val_one // val_two + 1
-        return val_one // val_two
+            result += 1
+        return result
 
     def evalRPN(self, tokens: List[str]) -> int:
 
@@ -27,13 +28,16 @@ class Solution:
             return self.eval_op(int(tokens[0]), int(tokens[1]), tokens[2])
 
         stack: list = []
+        operators: List[str] = ["+", "-", "*", "/"]
+        for idx, char in enumerate(tokens):
+            if char not in operators:
+                tokens[idx] = int(char)
 
         for idx, char in enumerate(tokens):
-            if char not in ["+", "-", "*", "/"]:
-                stack.append(int(char))
+            if char not in operators:
+                stack.append(char)
             else:
-                val_two = int(stack.pop())
-                val_one = int(stack.pop())
-                stack.append(self.eval_op(val_one, val_two, char))
+                val_two = stack.pop()
+                stack.append(self.eval_op(stack.pop(), val_two, char))
         
         return stack[0]
