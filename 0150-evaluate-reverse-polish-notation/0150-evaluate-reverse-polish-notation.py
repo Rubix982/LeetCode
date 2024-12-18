@@ -18,11 +18,12 @@ class Solution:
         operators: set = {"+", "-", "*", "/"}  # Using a set for faster lookup
 
         for char in tokens:
+            val = 0
             if char in operators:
                 val_two = stack.pop()
-                val_one = stack.pop()
-                stack.append(self.eval_op(val_one, val_two, char))
+                val = self.eval_op(stack.pop(), val_two, char)
             else:
-                stack.append(int(char))  # Directly convert to integer when it's a number
+                val = int(char)
+            stack.append(val)
         
         return stack[0]
