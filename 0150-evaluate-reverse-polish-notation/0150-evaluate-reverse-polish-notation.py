@@ -15,10 +15,10 @@ class Solution:
 
     def evalRPN(self, tokens: List[str]) -> int:
         stack: list = []
-        operators: set = {"+", "-", "*", "/"}  # Using a set for faster lookup
+        operators: set = {"+", "-", "*", "/"}
+        val = 0
 
         for char in tokens:
-            val = 0
             if char in operators:
                 val_two = stack.pop()
                 val = self.eval_op(stack.pop(), val_two, char)
