@@ -14,30 +14,15 @@ class Solution:
         return result
 
     def evalRPN(self, tokens: List[str]) -> int:
-
-        if len(tokens) == 0:
-            return 0
-
-        if len(tokens) == 1:
-            return int(tokens[0])
-
-        if len(tokens) == 2:
-            return int(token[0]) + int(token[1])
-
-        if len(tokens) == 3:
-            return self.eval_op(int(tokens[0]), int(tokens[1]), tokens[2])
-
         stack: list = []
-        operators: List[str] = ["+", "-", "*", "/"]
-        for idx, char in enumerate(tokens):
-            if char not in operators:
-                tokens[idx] = int(char)
+        operators: set = {"+", "-", "*", "/"}  # Using a set for faster lookup
 
-        for idx, char in enumerate(tokens):
-            if char not in operators:
-                stack.append(char)
-            else:
+        for char in tokens:
+            if char in operators:
                 val_two = stack.pop()
-                stack.append(self.eval_op(stack.pop(), val_two, char))
+                val_one = stack.pop()
+                stack.append(self.eval_op(val_one, val_two, char))
+            else:
+                stack.append(int(char))  # Directly convert to integer when it's a number
         
         return stack[0]
