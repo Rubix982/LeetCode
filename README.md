@@ -152,6 +152,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0042-trapping-rain-water](https://github.com/Rubix982/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubix982/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
@@ -197,4 +198,28 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rubix982/LeetCode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
