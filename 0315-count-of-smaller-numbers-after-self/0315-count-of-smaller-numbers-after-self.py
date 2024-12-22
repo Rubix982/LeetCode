@@ -10,46 +10,47 @@ class Solution:
             return []
 
         results = [0] * n
-        array_with_indices = [ArrayValWithOrigIdx(nums[i], i) for i in range(n)]
+        nums_with_indices = [(nums[i], i) for i in range(n)]
         
-        self.merge_sort_and_count(array_with_indices, 0, n - 1, results)
+        self.merge_sort(nums_with_indices, 0, n - 1, results)
         return results
 
-    def merge_sort_and_count(self, nums: List[ArrayValWithOrigIdx], start: int, end: int, results: List[int]):
+
+    def merge_sort(self, nums: List[tuple], start: int, end: int, results: List[int]):
         if start >= end:
             return
 
         mid = (start + end) // 2
-        self.merge_sort_and_count(nums, start, mid, results)
-        self.merge_sort_and_count(nums, mid + 1, end, results)
+        self.merge_sort(nums, start, mid, results)
+        self.merge_sort(nums, mid + 1, end, results)
 
-        left_pos = start
-        right_pos = mid + 1
-        merged = []
+        # Merge and count smaller elements
+        self.merge(nums, start, mid, end, results)
+
+    def merge(self, nums: List[tuple], start: int, mid: int, end: int, results: List[int]):
+        left = start
+        right = mid + 1
+        temp = []
         right_counter = 0
 
-        # Merge and count
-        while left_pos <= mid and right_pos <= end:
-            if nums[left_pos].val > nums[right_pos].val:
+        while left <= mid and right <= end:
+            if nums[left][0] > nums[right][0]:
                 right_counter += 1
-                merged.append(nums[right_pos])
-                right_pos += 1
+                temp.append(nums[right])
+                right += 1
             else:
-                results[nums[left_pos].original_idx] += right_counter
-                merged.append(nums[left_pos])
-                left_pos += 1
+                results[nums[left][1]] += right_counter
+                temp.append(nums[left])
+                left += 1
 
-        # Add remaining left elements
-        while left_pos <= mid:
-            results[nums[left_pos].original_idx] += right_counter
-            merged.append(nums[left_pos])
-            left_pos += 1
-
-        # Add remaining right elements
-        while right_pos <= end:
-            merged.append(nums[right_pos])
-            right_pos += 1
+        # Add any remaining elements
+        while left <= mid:
+            results[nums[left][1]] += right_counter
+            temp.append(nums[left])
+            left += 1
+        while right <= end:
+            temp.append(nums[right])
+            right += 1
 
         # Copy back to the original array
-        for i in range(len(merged)):
-            nums[start + i] = merged[i]
+        nums[start:end + 1] = temp
