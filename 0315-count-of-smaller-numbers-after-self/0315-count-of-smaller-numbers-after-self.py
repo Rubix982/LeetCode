@@ -1,8 +1,3 @@
-class ArrayValWithOrigIdx:
-    def __init__(self, val: int, original_idx: int):
-        self.val = val
-        self.original_idx = original_idx
-
 class Solution:
     def countSmaller(self, nums: List[int]) -> List[int]:
         n = len(nums)
@@ -10,11 +5,9 @@ class Solution:
             return []
 
         results = [0] * n
-        nums_with_indices = [(nums[i], i) for i in range(n)]
-        
+        nums_with_indices = [(nums[i], i) for i in range(n)]        
         self.merge_sort(nums_with_indices, 0, n - 1, results)
         return results
-
 
     def merge_sort(self, nums: List[tuple], start: int, end: int, results: List[int]):
         if start >= end:
@@ -23,8 +16,6 @@ class Solution:
         mid = (start + end) // 2
         self.merge_sort(nums, start, mid, results)
         self.merge_sort(nums, mid + 1, end, results)
-
-        # Merge and count smaller elements
         self.merge(nums, start, mid, end, results)
 
     def merge(self, nums: List[tuple], start: int, mid: int, end: int, results: List[int]):
