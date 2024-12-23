@@ -3,21 +3,17 @@ class Solution:
         if len(s) == 1:
             return False
 
-        stack: list = []
-        for idx, val in enumerate(s):
-            if val in ['(', '[', '{']:
-                stack.append(val)
-            elif val in [')', ']', '}']:
-                if len(stack) == 0:
+        bracket_map = {')': '(', ']': '[', '}': '{'}
+        bracket_map_values = bracket_map.values()
+        stack = []
+
+        for char in s:
+            if char in bracket_map_values:
+                stack.append(char)
+            elif char in bracket_map:
+                if not stack or stack[-1] != bracket_map[char]:
                     return False
-                stack_val = stack[-1]
-                if stack_val == '(' and val != ')':
-                    return False
-                elif stack_val == '[' and val != ']':
-                    return False
-                elif stack_val == '{' and val != '}':
-                    return False
-                stack.pop(len(stack) - 1)
-        
-        return len(stack) == 0
+                stack.pop()
+
+        return not stack
         
