@@ -174,6 +174,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rubix982/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rubix982/LeetCode/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubix982/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
