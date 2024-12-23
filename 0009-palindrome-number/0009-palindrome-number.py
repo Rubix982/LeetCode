@@ -5,14 +5,11 @@ class Solution:
 
         x = str(x)
         len_x = len(x)
-        mid_left, mid_right = -1, -1
+        len_x_by_two = len_x // 2
+        mid_left, mid_right = len_x_by_two - 1, len_x_by_two
 
-        if len_x % 2 == 0:
-            mid_left = len_x // 2 - 1
-            mid_right = len_x // 2
-        else:
-            mid_left = len_x // 2 - 1
-            mid_right = len_x // 2 + 1
+        if len_x % 2 != 0:
+            mid_right = mid_right + 1
 
         while True:
             if mid_left < 0 or mid_right >= len_x:
