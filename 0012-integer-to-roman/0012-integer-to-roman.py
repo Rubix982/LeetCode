@@ -1,7 +1,9 @@
 class Solution:
     def intToRoman(self, num: int) -> str:
 
-        roman_values = [
+        roman_ver = StringIO()
+
+        for value, symbol in [
             (1000, "M"),
             (900, "CM"),
             (500, "D"),
@@ -15,13 +17,9 @@ class Solution:
             (5, "V"),
             (4, "IV"),
             (1, "I"),
-        ]
-
-        roman_ver = ""
-
-        for value, symbol in roman_values:
-            while num >= value: # Append as many symbols as fit into `num`
-                roman_ver += symbol
+        ]:
+            while num >= value:
+                roman_ver.write(symbol)
                 num -= value
         
-        return roman_ver
+        return roman_ver.getvalue()
