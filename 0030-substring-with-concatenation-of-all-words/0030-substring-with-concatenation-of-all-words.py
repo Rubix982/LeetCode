@@ -1,5 +1,6 @@
 class Solution:
     def findSubstring(self, s: str, words: List[str]) -> List[int]:
+        return self.simplerFindSubstring(s, words)
         result = []
         length = len(words[0])
         word_count = defaultdict(int)
@@ -46,4 +47,39 @@ class Solution:
                 if size == len(words):
                     result.append(i - (size - 1) * length)
 
+        return result
+
+    def simplerFindSubstring(self, s: str, words: List[str]) -> List[int]:
+        result = []
+        if not s or not words:
+            return result
+        
+        word_len = len(words[0])
+        word_count = Counter(words)
+        total_len = len(words) * word_len
+        
+        # Iterate for each possible offset in the word length
+        for offset in range(word_len):
+            seen = Counter()
+            start = offset
+            for end in range(offset, len(s) - word_len + 1, word_len):
+                word = s[end:end + word_len]
+                
+                # If the word is valid, process it
+                if word in word_count:
+                    seen[word] += 1
+                    
+                    # Shrink the window if there are too many occurrences of the word
+                    while seen[word] > word_count[word]:
+                        seen[s[start:start + word_len]] -= 1
+                        start += word_len
+                    
+                    # If we matched all words, add the starting index to result
+                    if end - start + word_len == total_len:
+                        result.append(start)
+                else:
+                    # Reset the window if the word is invalid
+                    seen.clear()
+                    start = end + word_len
+        
         return result
