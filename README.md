@@ -86,6 +86,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0012-integer-to-roman](https://github.com/Rubix982/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rubix982/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Rubix982/LeetCode/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rubix982/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rubix982/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rubix982/LeetCode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -142,6 +143,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rubix982/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rubix982/LeetCode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rubix982/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Rubix982/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rubix982/LeetCode/tree/master/0127-word-ladder) |
@@ -149,6 +151,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rubix982/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Array
 |  |
