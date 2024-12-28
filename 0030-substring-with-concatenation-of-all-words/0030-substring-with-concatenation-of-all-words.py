@@ -57,12 +57,13 @@ class Solution:
         word_len = len(words[0])
         word_count = Counter(words)
         total_len = len(words) * word_len
+        s_len = len(s)
         
         # Iterate for each possible offset in the word length
         for offset in range(word_len):
             seen = Counter()
             start = offset
-            for end in range(offset, len(s) - word_len + 1, word_len):
+            for end in range(offset, s_len - word_len + 1, word_len):
                 word = s[end:end + word_len]
                 
                 # If the word is valid, process it
