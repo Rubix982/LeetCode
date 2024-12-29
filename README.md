@@ -258,4 +258,5 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rubix982/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Rubix982/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
