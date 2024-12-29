@@ -8,7 +8,7 @@ class Solution:
     def placeQueen(self, n: int, row: int, board: List[List[str]], results: List[str]):
         if row == n:
             results.append(".")
-            return board
+            return
 
         for col in range(n):
             if self.canPlaceQueen(board, row, col, n):
