@@ -15,24 +15,22 @@ class Solution:
                 board[row][col] = "Q"
                 self.placeQueen(n, row + 1, board, results)
                 board[row][col] = "."
-    
-        return board
 
-    def canPlaceQueen(self, board, row, col, n) -> bool:
-        # Check for any queens in the same column
-        for i in range(n):
+
+    def canPlaceQueen(self, board: List[List[str]], row: int, col: int, n: int) -> bool:
+        # Check column
+        for i in range(row):
             if board[i][col] == "Q":
                 return False
 
-        # Check for any queens in the same row
-        for j in range(n):
-            if board[row][j] == "Q":
+        # Check upper-left diagonal
+        for i, j in zip(range(row - 1, -1, -1), range(col - 1, -1, -1)):
+            if board[i][j] == "Q":
                 return False
 
-        # Check for queens in all diagonals
-        for i in range(n):
-            for j in range(n):
-                if abs(row - i) == abs(col - j) and board[i][j] == "Q":
-                    return False
+        # Check upper-right diagonal
+        for i, j in zip(range(row - 1, -1, -1), range(col + 1, n)):
+            if board[i][j] == "Q":
+                return False
 
         return True
