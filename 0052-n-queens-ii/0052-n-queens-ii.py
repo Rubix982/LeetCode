@@ -1,16 +1,13 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
-        return len(self.solveNQueens(n))
-
-    def solveNQueens(self, n: int) -> List[List[str]]:
         board = [["."] * n for _ in range(n)]
         results = []
         self.placeQueen(n, 0, board, results)
-        return [["".join(row) for row in result] for result in results]
+        return len(results)
 
-    def placeQueen(self, n: int, row: int, board: List[List[str]], results: List[List[List[str]]]):
+    def placeQueen(self, n: int, row: int, board: List[List[str]], results: List[str]):
         if row == n:
-            results.append([row[:] for row in board])
+            results.append(".")
             return board
 
         for col in range(n):
