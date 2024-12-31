@@ -137,6 +137,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rubix982/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Rubix982/LeetCode/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
@@ -246,6 +247,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rubix982/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rubix982/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Sorting
 |  |
 | ------- |
