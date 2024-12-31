@@ -122,6 +122,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0032-longest-valid-parentheses](https://github.com/Rubix982/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rubix982/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Rubix982/LeetCode/tree/master/0044-wildcard-matching) |
+| [0118-pascals-triangle](https://github.com/Rubix982/LeetCode/tree/master/0118-pascals-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Stack
 |  |
@@ -162,6 +163,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0041-first-missing-positive](https://github.com/Rubix982/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rubix982/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Rubix982/LeetCode/tree/master/0051-n-queens) |
+| [0118-pascals-triangle](https://github.com/Rubix982/LeetCode/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubix982/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
