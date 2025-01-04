@@ -89,6 +89,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rubix982/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rubix982/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rubix982/LeetCode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Rubix982/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rubix982/LeetCode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rubix982/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -207,6 +208,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0012-integer-to-roman](https://github.com/Rubix982/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rubix982/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rubix982/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rubix982/LeetCode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubix982/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -224,6 +226,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rubix982/LeetCode/tree/master/0067-add-binary) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -287,4 +290,8 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rubix982/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
