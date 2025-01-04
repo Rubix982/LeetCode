@@ -125,6 +125,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0085-maximal-rectangle](https://github.com/Rubix982/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Rubix982/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rubix982/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0221-maximal-square](https://github.com/Rubix982/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Stack
 |  |
@@ -173,6 +174,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0119-pascals-triangle-ii](https://github.com/Rubix982/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubix982/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0221-maximal-square](https://github.com/Rubix982/LeetCode/tree/master/0221-maximal-square) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -193,6 +195,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Rubix982/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/Rubix982/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Math
 |  |
