@@ -169,6 +169,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0041-first-missing-positive](https://github.com/Rubix982/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rubix982/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Rubix982/LeetCode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Rubix982/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rubix982/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rubix982/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Rubix982/LeetCode/tree/master/0118-pascals-triangle) |
@@ -205,6 +206,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0009-palindrome-number](https://github.com/Rubix982/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rubix982/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rubix982/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Rubix982/LeetCode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubix982/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
