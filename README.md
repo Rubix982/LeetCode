@@ -89,6 +89,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rubix982/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rubix982/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rubix982/LeetCode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Rubix982/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rubix982/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rubix982/LeetCode/tree/master/0127-word-ladder) |
