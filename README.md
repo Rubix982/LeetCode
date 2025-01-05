@@ -94,6 +94,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rubix982/LeetCode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rubix982/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rubix982/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Tree
 |  |
 | ------- |
@@ -182,6 +183,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0769-largest-plus-sign](https://github.com/Rubix982/LeetCode/tree/master/0769-largest-plus-sign) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rubix982/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
