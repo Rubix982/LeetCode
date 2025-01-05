@@ -299,4 +299,8 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rubix982/LeetCode/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rubix982/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
