@@ -157,6 +157,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0012-integer-to-roman](https://github.com/Rubix982/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rubix982/LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rubix982/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Rubix982/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Rubix982/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rubix982/LeetCode/tree/master/0127-word-ladder) |
@@ -171,6 +172,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rubix982/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Rubix982/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Rubix982/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rubix982/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Rubix982/LeetCode/tree/master/0051-n-queens) |
@@ -203,6 +205,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rubix982/LeetCode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/Rubix982/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Rubix982/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
