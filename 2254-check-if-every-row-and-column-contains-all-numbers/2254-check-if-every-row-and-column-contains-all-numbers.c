@@ -1,29 +1,45 @@
 bool checkValid(int** board, int boardSize, int* boardColSize) {
+    int expectedTotalRowSum = (boardSize * (boardSize + 1)) / 2;
+
     for (int i = 0; i < boardSize; i++) {
+        int rowSum = 0;
         for (int j = 0; j < boardSize; j++) {
-            // We want to first look horizontally
-            for (int horizontal = 0; horizontal < boardSize; horizontal++) {
-                // Skip the element we are looking at itself
-                if (horizontal == j) {
+            for (int i_k = 0; i_k < boardSize; i_k++) {
+                if (i == i_k) {
                     continue;
                 }
 
-                if (board[i][horizontal] == board[i][j]) {
+                if (board[i][j] == board[i_k][j]) {
                     return false;
                 }
             }
 
-            // Secondly, look vertically
-            for (int vertical = 0; vertical < boardSize; vertical++) {
-                // Skip the element we are looking at itself
-                if (vertical == i) {
+            rowSum += board[i][j];
+        }
+
+        if (rowSum != expectedTotalRowSum) {
+            return false;
+        }
+    }
+
+    for (int i = 0; i < boardSize; i++) {
+        int colSum = 0;
+        for (int j = 0; j < boardSize; j++) {
+            for (int j_k = 0; j_k < boardSize; j_k++) {
+                if (j == j_k) {
                     continue;
                 }
 
-                if (board[vertical][j] == board[i][j]) {
+                if (board[i][j] == board[i][j_k]) {
                     return false;
                 }
             }
+
+            colSum += board[j][i];
+        }
+
+        if (colSum != expectedTotalRowSum) {
+            return false;
         }
     }
 
