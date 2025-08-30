@@ -1,14 +1,10 @@
 bool checkValid(int** board, int boardSize, int* boardColSize) {
-    int expectedTotalRowSum = (boardSize * (boardSize + 1)) / 2;
-    int colSum = 0;
-    int rowSum = 0;
     int i = 0;
     int j = 0;
     int i_k = 0;
     int j_k = 0;
 
     for (i = 0; i < boardSize; i++) {
-        rowSum = 0;
         for (j = 0; j < boardSize; j++) {
             for (i_k = 0; i_k < boardSize; i_k++) {
                 if (i == i_k) {
@@ -19,10 +15,7 @@ bool checkValid(int** board, int boardSize, int* boardColSize) {
                     return false;
                 }
             }
-        }
 
-        colSum = 0;
-        for (j = 0; j < boardSize; j++) {
             for (j_k = 0; j_k < boardSize; j_k++) {
                 if (j == j_k) {
                     continue;
