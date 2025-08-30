@@ -20,12 +20,12 @@ bool checkValid(int** board, int boardSize, int* boardColSize) {
                 }
             }
 
-            rowSum += board[i][j];
+            // rowSum += board[i][j];
         }
 
-        if (rowSum != expectedTotalRowSum) {
-            return false;
-        }
+        // if (rowSum != expectedTotalRowSum) {
+        //     return false;
+        // }
     }
 
     for (i = 0; i < boardSize; i++) {
@@ -41,12 +41,12 @@ bool checkValid(int** board, int boardSize, int* boardColSize) {
                 }
             }
 
-            colSum += board[j][i];
+            // colSum += board[j][i];
         }
 
-        if (colSum != expectedTotalRowSum) {
-            return false;
-        }
+        // if (colSum != expectedTotalRowSum) {
+        //     return false;
+        // }
     }
 
     return true;
