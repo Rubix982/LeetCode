@@ -1,4 +1,9 @@
 bool isValidSudoku(char** board, int boardSize, int* boardColSize) {
+    int startingIIndex = 0;
+    int endingIIndex = 0;
+    int startingJIndex = 0;
+    int endingJIndex = 0;
+
     for (int i = 0; i < boardSize; i++) {
         for (int j = 0; j < boardSize; j++) {
             char currBoardValue = board[i][j];
@@ -30,9 +35,8 @@ bool isValidSudoku(char** board, int boardSize, int* boardColSize) {
                 }
             }
 
-            int startingIIndex = 0;
-            int endingIIndex = 0;
             if (i >= 0 && i <= 2) {
+                endingIIndex = 0;
                 endingIIndex = 2;
             } else if (i >= 3 && i <= 5) {
                 startingIIndex = 3;
@@ -57,10 +61,8 @@ bool isValidSudoku(char** board, int boardSize, int* boardColSize) {
             // search grid for [6][3], [6][4], [6][5], [7][3], [8][4], [8][5], [9][3], [9][4], [9][5]
             // search grid for [6][6], [6][7], [6][8], [7][6], [8][7], [8][8], [9][6], [9][7], [9][8]
             for (int i_k = startingIIndex; i_k <= endingIIndex; i_k++) {
-
-                int startingJIndex = 0;
-                int endingJIndex = 0;
                 if (j >= 0 && j <= 2) {
+                    startingJIndex = 0;
                     endingJIndex = 2;
                 } else if (j >= 3 && j <= 5) {
                     startingJIndex = 3;
