@@ -2,22 +2,36 @@
 
 bool solve(char** board, bool rowUsed[9][9], bool colUsed[9][9], bool blockUsed[9][9], int row, int col) {
     if (row == 9) return true;
+
     if (col == 9) return solve(board, rowUsed, colUsed, blockUsed, row + 1, 0);
+
     if (board[row][col] != '.') return solve(board, rowUsed, colUsed, blockUsed, row, col + 1);
 
+    int d, block;
+
     for (char c = '1'; c <= '9'; c++) {
-        int d = c - '1';
-        int block = (row/3)*3 + (col/3);
-        if (!rowUsed[row][d] && !colUsed[col][d] && !blockUsed[block][d]) {
-            board[row][col] = c;
-            rowUsed[row][d] = colUsed[col][d] = blockUsed[block][d] = true;
+        d = c - '1';
+        block = (row/3)*3 + (col/3);
 
-            if (solve(board, rowUsed, colUsed, blockUsed, row, col + 1))
-                return true;
-
-            board[row][col] = '.'; // backtrack
-            rowUsed[row][d] = colUsed[col][d] = blockUsed[block][d] = false;
+        if (rowUsed[row][d]) {
+            continue;
         }
+
+        if (colUsed[col][d]) {
+            continue;
+        }
+
+        if (blockUsed[block][d]) {
+            continue;
+        }
+
+        board[row][col] = c;
+        rowUsed[row][d] = colUsed[col][d] = blockUsed[block][d] = true;
+
+        if (solve(board, rowUsed, colUsed, blockUsed, row, col + 1)) return true;
+
+        board[row][col] = '.'; // backtrack
+        rowUsed[row][d] = colUsed[col][d] = blockUsed[block][d] = false;
     }
 
     return false;
