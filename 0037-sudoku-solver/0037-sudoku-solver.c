@@ -8,8 +8,9 @@ bool solve(char** board, bool rowUsed[9][9], bool colUsed[9][9], bool blockUsed[
     if (board[row][col] != '.') return solve(board, rowUsed, colUsed, blockUsed, row, col + 1);
 
     int d, block;
+    char c;
 
-    for (char c = '1'; c <= '9'; c++) {
+    for (c = '1'; c <= '9'; c++) {
         d = c - '1';
         block = (row/3)*3 + (col/3);
 
@@ -41,11 +42,14 @@ void solveSudoku(char** board, int boardSize, int* boardColSize) {
     bool rowUsed[9][9] = {false};
     bool colUsed[9][9] = {false};
     bool blockUsed[9][9] = {false};
+    int d;
+    int i;
+    int j;
 
-    for (int i = 0; i < 9; i++)
-        for (int j = 0; j < 9; j++)
+    for (i = 0; i < 9; i++)
+        for (j = 0; j < 9; j++)
             if (board[i][j] != '.') {
-                int d = board[i][j] - '1';
+                d = board[i][j] - '1';
                 rowUsed[i][d] = true;
                 colUsed[j][d] = true;
                 blockUsed[(i/3)*3 + (j/3)][d] = true;
