@@ -196,6 +196,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rubix982/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rubix982/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Graph
 |  |
 | ------- |
@@ -229,6 +230,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubix982/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rubix982/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Geometry
 |  |
 | ------- |
@@ -312,6 +314,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rubix982/LeetCode/tree/master/0067-add-binary) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rubix982/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Database
 |  |
 | ------- |
