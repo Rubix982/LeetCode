@@ -1,8 +1,3 @@
-#include <stdio.h>
-#include <math.h>
-
-const double LOG4 = log(4);
-
 long long steps_to_zero_sum(int start, int end) {
     long long sum = 0;
     long long pow4 = 1;   // current block start: 4^0 = 1
@@ -26,14 +21,14 @@ long long steps_to_zero_sum(int start, int end) {
         step++;
     }
 
-    return sum;
+    return (sum + 1)/2;
 }
 
 long long minOperations(int** queries, int queriesSize, int* queriesColSize) {
     int i = 0;
     long long total_ops = 0;
     for (i = 0; i < queriesSize; i++) {
-        total_ops += (steps_to_zero_sum(queries[i][0], queries[i][1]) + 1) / 2;
+        total_ops += steps_to_zero_sum(queries[i][0], queries[i][1]);
     }
     return total_ops;
 }
