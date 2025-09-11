@@ -5,23 +5,22 @@
 class Solution {
 public:
     string sortVowels(string s) {
-        std::unordered_set<char> vowels = { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
-        std::vector<char> vowelChars;
+        bool isVowel[256] = {0};
+        for (char c : "aeiouAEIOU") isVowel[(unsigned char)c] = true;
 
-        for (char c : s) {
-            if (vowels.count(c)) {
+        std::vector<char> vowelChars;
+        vowelChars.reserve(s.size());
+
+        for (char c : s)
+            if (isVowel[(unsigned char)c])
                 vowelChars.push_back(c);
-            }
-        }
 
         std::sort(vowelChars.begin(), vowelChars.end());
 
         int idx = 0;
-        for (char &c: s) {
-            if (vowels.count(c)) {
+        for (char &c: s)
+            if (isVowel[(unsigned char)c])
                 c = vowelChars.at(idx++);
-            }
-        }
 
         return s;
     }
