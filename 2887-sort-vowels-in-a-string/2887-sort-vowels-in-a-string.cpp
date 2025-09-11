@@ -5,7 +5,7 @@
 class Solution {
 public:
     string sortVowels(string s) {
-        bool isVowel[256] = {0};
+        bool isVowel[123] = {0};
         for (char c : "aeiouAEIOU") isVowel[(unsigned char)c] = true;
 
         std::vector<char> vowelChars;
