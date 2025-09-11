@@ -11,16 +11,12 @@ public:
         std::vector<char> vowelChars;
         vowelChars.reserve(s.size());
 
-        for (char c : s)
-            if (isVowel[(unsigned char)c])
-                vowelChars.push_back(c);
+        for (char c : s) if (isVowel[(unsigned char)c]) vowelChars.push_back(c);
 
         std::sort(vowelChars.begin(), vowelChars.end());
 
         int idx = 0;
-        for (char &c: s)
-            if (isVowel[(unsigned char)c])
-                c = vowelChars.at(idx++);
+        for (char &c: s) if (isVowel[(unsigned char)c]) c = vowelChars.at(idx++);
 
         return s;
     }
