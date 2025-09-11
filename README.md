@@ -96,6 +96,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rubix982/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rubix982/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2184-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Rubix982/LeetCode/tree/master/2184-check-if-an-original-string-exists-given-two-encoded-strings) |
+| [2887-sort-vowels-in-a-string](https://github.com/Rubix982/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -298,6 +299,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rubix982/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [2887-sort-vowels-in-a-string](https://github.com/Rubix982/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Data Stream
 |  |
 | ------- |
