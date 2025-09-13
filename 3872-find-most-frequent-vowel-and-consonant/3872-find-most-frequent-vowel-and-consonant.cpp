@@ -1,44 +1,24 @@
 class Solution {
 public:
-    int maxFreqSum(string s) {
-        std::unordered_map<char, int> vowelCount = {
-            {'a', 0},
-            {'e', 0},
-            {'i', 0},
-            {'o', 0},
-            {'u', 0},
-        };
-        std::unordered_map<char, int> consonants;
-        std::unordered_set<char> vowels { 'a', 'e', 'i', 'o', 'u' };
+    int maxFreqSum(std::string s) {
+        // Frequency array for all lowercase letters (assuming input is lowercase a-z)
+        std::vector<int> freq(26, 0);
 
         for (char c : s) {
-            if (vowels.count(c)) {
-                vowelCount[c]++;
-            } else {
-                // Key does not exist yet
-                if (consonants.find(c) == consonants.end()) {
-                    consonants.insert({{c, 1}});
-                } else {
-                    consonants[c]++;
-                }
-            }
+            freq[c - 'a']++;
         }
 
-        int maxVowelCount = 0;
-        int maxConsonantCount = 0;
-
-        for (auto &x: vowelCount) {
-            if (x.second > maxVowelCount) {
-                maxVowelCount = x.second;
-            }
+        // Track vowel max and consonant max
+        int maxVowel = 0, maxCons = 0;
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] == 0) continue;
+            char c = 'a' + i;
+            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
+                maxVowel = std::max(maxVowel, freq[i]);
+            else
+                maxCons = std::max(maxCons, freq[i]);
         }
 
-        for (auto &x: consonants) {
-            if (x.second > maxConsonantCount) {
-                maxConsonantCount = x.second;
-            }
-        }
-
-        return maxVowelCount + maxConsonantCount;
+        return maxVowel + maxCons;
     }
 };
