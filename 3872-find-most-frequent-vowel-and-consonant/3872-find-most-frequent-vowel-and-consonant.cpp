@@ -1,22 +1,16 @@
 class Solution {
 public:
     int maxFreqSum(std::string s) {
-        // Frequency array for all lowercase letters (assuming input is lowercase a-z)
-        std::vector<int> freq(26, 0);
-
-        for (char c : s) {
-            freq[c - 'a']++;
-        }
-
-        // Track vowel max and consonant max
+        std::array<int, 256> freq{};
         int maxVowel = 0, maxCons = 0;
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] == 0) continue;
-            char c = 'a' + i;
+
+        for (unsigned char c : s) {  // note unsigned to avoid negatives
+            int count = ++freq[c];
+
             if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
-                maxVowel = std::max(maxVowel, freq[i]);
+                maxVowel = std::max(maxVowel, count);
             else
-                maxCons = std::max(maxCons, freq[i]);
+                maxCons = std::max(maxCons, count);
         }
 
         return maxVowel + maxCons;
