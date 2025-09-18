@@ -200,6 +200,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0119-pascals-triangle-ii](https://github.com/Rubix982/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubix982/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rubix982/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0221-maximal-square](https://github.com/Rubix982/LeetCode/tree/master/0221-maximal-square) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -275,6 +276,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rubix982/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Rubix982/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rubix982/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Rubix982/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
@@ -285,6 +287,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rubix982/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
 |  |
