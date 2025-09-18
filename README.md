@@ -122,6 +122,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0295-find-median-from-data-stream](https://github.com/Rubix982/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rubix982/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Rubix982/LeetCode/tree/master/3678-design-task-manager) |
 ## Binary Tree
 |  |
 | ------- |
@@ -175,6 +176,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rubix982/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rubix982/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Rubix982/LeetCode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rubix982/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -260,6 +262,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [1917-maximum-average-pass-ratio](https://github.com/Rubix982/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/Rubix982/LeetCode/tree/master/3678-design-task-manager) |
 ## Simulation
 |  |
 | ------- |
@@ -306,6 +309,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Rubix982/LeetCode/tree/master/3678-design-task-manager) |
 ## Linked List
 |  |
 | ------- |
