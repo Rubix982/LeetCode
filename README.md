@@ -206,6 +206,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0769-largest-plus-sign](https://github.com/Rubix982/LeetCode/tree/master/0769-largest-plus-sign) |
 | [1006-vowel-spellchecker](https://github.com/Rubix982/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rubix982/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rubix982/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rubix982/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -278,6 +279,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0042-trapping-rain-water](https://github.com/Rubix982/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rubix982/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Rubix982/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -322,6 +324,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rubix982/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rubix982/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Data Stream
 |  |
