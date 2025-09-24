@@ -94,6 +94,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rubix982/LeetCode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/Rubix982/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rubix982/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rubix982/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/Rubix982/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rubix982/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -175,6 +176,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0076-minimum-window-substring](https://github.com/Rubix982/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Rubix982/LeetCode/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rubix982/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/Rubix982/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rubix982/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2023-design-movie-rental-system](https://github.com/Rubix982/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -256,6 +258,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0067-add-binary](https://github.com/Rubix982/LeetCode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/Rubix982/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rubix982/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rubix982/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rubix982/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rubix982/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
