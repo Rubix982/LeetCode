@@ -158,6 +158,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Rubix982/LeetCode/tree/master/0044-wildcard-matching) |
+| [0611-valid-triangle-number](https://github.com/Rubix982/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rubix982/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Recursion
 |  |
@@ -212,6 +213,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0221-maximal-square](https://github.com/Rubix982/LeetCode/tree/master/0221-maximal-square) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0611-valid-triangle-number](https://github.com/Rubix982/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0769-largest-plus-sign](https://github.com/Rubix982/LeetCode/tree/master/0769-largest-plus-sign) |
 | [1006-vowel-spellchecker](https://github.com/Rubix982/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -293,6 +295,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0165-compare-version-numbers](https://github.com/Rubix982/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rubix982/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Rubix982/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/Rubix982/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
@@ -305,6 +308,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rubix982/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0611-valid-triangle-number](https://github.com/Rubix982/LeetCode/tree/master/0611-valid-triangle-number) |
 | [3827-implement-router](https://github.com/Rubix982/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -341,6 +345,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rubix982/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/Rubix982/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rubix982/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Data Stream
