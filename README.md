@@ -143,6 +143,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0221-maximal-square](https://github.com/Rubix982/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0769-largest-plus-sign](https://github.com/Rubix982/LeetCode/tree/master/0769-largest-plus-sign) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Rubix982/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2184-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Rubix982/LeetCode/tree/master/2184-check-if-an-original-string-exists-given-two-encoded-strings) |
 ## Stack
 |  |
@@ -220,6 +221,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [1006-vowel-spellchecker](https://github.com/Rubix982/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Rubix982/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Rubix982/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rubix982/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rubix982/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rubix982/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
