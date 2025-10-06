@@ -114,6 +114,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rubix982/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Rubix982/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rubix982/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Rubix982/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -237,6 +239,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Rubix982/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rubix982/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rubix982/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rubix982/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Rubix982/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -270,6 +273,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rubix982/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Rubix982/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rubix982/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Math
 |  |
@@ -302,6 +306,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0023-merge-k-sorted-lists](https://github.com/Rubix982/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Rubix982/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0794-swim-in-rising-water](https://github.com/Rubix982/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rubix982/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Rubix982/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -341,6 +346,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rubix982/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0611-valid-triangle-number](https://github.com/Rubix982/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Rubix982/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [3827-implement-router](https://github.com/Rubix982/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -426,4 +432,5 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Rubix982/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
