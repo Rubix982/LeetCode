@@ -249,6 +249,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rubix982/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rubix982/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rubix982/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rubix982/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -337,6 +338,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0295-find-median-from-data-stream](https://github.com/Rubix982/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/Rubix982/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rubix982/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -352,6 +354,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0794-swim-in-rising-water](https://github.com/Rubix982/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rubix982/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rubix982/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3827-implement-router](https://github.com/Rubix982/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -394,6 +397,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0611-valid-triangle-number](https://github.com/Rubix982/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Rubix982/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rubix982/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rubix982/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Data Stream
 |  |
