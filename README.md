@@ -252,6 +252,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rubix982/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rubix982/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rubix982/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rubix982/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3827-implement-router](https://github.com/Rubix982/LeetCode/tree/master/3827-implement-router) |
@@ -442,4 +443,8 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Rubix982/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rubix982/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
