@@ -153,6 +153,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0769-largest-plus-sign](https://github.com/Rubix982/LeetCode/tree/master/0769-largest-plus-sign) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Rubix982/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2184-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Rubix982/LeetCode/tree/master/2184-check-if-an-original-string-exists-given-two-encoded-strings) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rubix982/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +262,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rubix982/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rubix982/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3827-implement-router](https://github.com/Rubix982/LeetCode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rubix982/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Graph
 |  |
 | ------- |
@@ -306,6 +308,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rubix982/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rubix982/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Geometry
 |  |
 | ------- |
@@ -423,11 +426,13 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rubix982/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rubix982/LeetCode/tree/master/0067-add-binary) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rubix982/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rubix982/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Database
 |  |
 | ------- |
@@ -457,4 +462,8 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rubix982/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rubix982/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rubix982/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
