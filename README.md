@@ -98,6 +98,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rubix982/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/Rubix982/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rubix982/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rubix982/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rubix982/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2184-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Rubix982/LeetCode/tree/master/2184-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -194,6 +195,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0169-majority-element](https://github.com/Rubix982/LeetCode/tree/master/0169-majority-element) |
 | [1006-vowel-spellchecker](https://github.com/Rubix982/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rubix982/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rubix982/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rubix982/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Rubix982/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rubix982/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -244,6 +246,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [1018-largest-perimeter-triangle](https://github.com/Rubix982/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Rubix982/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rubix982/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rubix982/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rubix982/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -409,6 +412,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [0611-valid-triangle-number](https://github.com/Rubix982/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Rubix982/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rubix982/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rubix982/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rubix982/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rubix982/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rubix982/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
