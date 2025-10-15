@@ -262,6 +262,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rubix982/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rubix982/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rubix982/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rubix982/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rubix982/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3827-implement-router](https://github.com/Rubix982/LeetCode/tree/master/3827-implement-router) |
@@ -368,6 +369,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [1612-avoid-flood-in-the-city](https://github.com/Rubix982/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/Rubix982/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rubix982/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rubix982/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rubix982/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/Rubix982/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
