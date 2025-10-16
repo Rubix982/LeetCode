@@ -174,6 +174,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [1018-largest-perimeter-triangle](https://github.com/Rubix982/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rubix982/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rubix982/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rubix982/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +201,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [2023-design-movie-rental-system](https://github.com/Rubix982/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rubix982/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rubix982/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rubix982/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/Rubix982/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Rubix982/LeetCode/tree/master/3827-implement-router) |
@@ -259,6 +261,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rubix982/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/Rubix982/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Rubix982/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rubix982/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rubix982/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rubix982/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -310,6 +313,7 @@ If you like what I am doing, please `star` or `fork`. Thanks!
 | [1642-water-bottles](https://github.com/Rubix982/LeetCode/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rubix982/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rubix982/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rubix982/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rubix982/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rubix982/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rubix982/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
